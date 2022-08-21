@@ -43,9 +43,8 @@ public class PlayerMovement : MonoBehaviour, IDamage
         _inputSettings.Player.Move.canceled += ctx => _move = ctx.ReadValue<Vector2>();
         _inputSettings.Player.Move.performed += ctx => _move = ctx.ReadValue<Vector2>();
         _inputSettings.Player.Look.performed += Looking;
-        _inputSettings.Player.Attack.started += Attack;
+        _inputSettings.Player.Attack.performed += Attack;
         _inputSettings.Player.Block.performed += Block;
-        _inputSettings.Player.Attack.canceled += Attack;
     }
 
     private void Update()
@@ -119,7 +118,7 @@ public class PlayerMovement : MonoBehaviour, IDamage
     private void Attack(InputAction.CallbackContext ctx)
     {
         _animSwitcher.SwitchAnimation("Attack");
-        _sword.Attack = ctx.started;
+        _sword.Attack = ctx.performed;
     }
 
     private void Block(InputAction.CallbackContext ctx)

@@ -41,6 +41,7 @@ public class LevelBuilder : MonoBehaviour
         }
         else
         {
+            spawned.SetActive(true);
             spawned.transform.position = enemySpawn.position;
         }
         
