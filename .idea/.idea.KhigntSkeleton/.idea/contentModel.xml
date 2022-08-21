@@ -20,9 +20,23 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
+          <e p="Interfaces" t="Include">
+            <e p="IDamage.cs" t="Include" />
+          </e>
+          <e p="NPC" t="Include">
+            <e p="NPCController.cs" t="Include" />
+          </e>
           <e p="PlayerMovement" t="Include">
-            <e p="PlayerInput.cs" t="Include" />
-            <e p="PlayerMovement.cs" t="Include" />
+            <e p="Animation" t="Include">
+              <e p="AnimatorSwitcher.cs" t="Include" />
+            </e>
+            <e p="HP Actions Player" t="Include">
+              <e p="SwordController.cs" t="Include" />
+            </e>
+            <e p="Movement" t="Include">
+              <e p="PlayerInput.cs" t="Include" />
+              <e p="PlayerMovement.cs" t="Include" />
+            </e>
           </e>
         </e>
       </e>

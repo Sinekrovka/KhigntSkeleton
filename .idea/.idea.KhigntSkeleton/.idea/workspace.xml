@@ -1,7 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f79b877-c30b-4be6-ac1a-b8b607314049" name="Default Changelist" comment="" />
+    <list default="true" id="4f79b877-c30b-4be6-ac1a-b8b607314049" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.KhigntSkeleton/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.KhigntSkeleton/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.KhigntSkeleton/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.KhigntSkeleton/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/Anim_controllers/PT_Medieval_Anim_Controller.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/Anim_controllers/PT_Medieval_Anim_Controller.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/PT_Medieval_Male_NPC_Skeleton_01.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/PT_Medieval_Male_NPC_Skeleton_01.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/PT_Medieval_Peasant_Pose_02.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/PT_Medieval_Peasant_Pose_02.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sheath sword 1.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sheath sword 1.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sheath sword 2.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sheath sword 2.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield 180 turn (2).fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield 180 turn (2).fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield 180 turn.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield 180 turn.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield attack (2).fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield attack (2).fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield attack (3).fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield attack (3).fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield attack (4).fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield attack (4).fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield attack.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield attack.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield block (2).fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield block (2).fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield block idle.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield block idle.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield block.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield block.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield casting (2).fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield casting (2).fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield casting.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield casting.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield crouch block (2).fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield crouch block (2).fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield crouch block idle.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield crouch block idle.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield crouch block.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield crouch block.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield crouching (3).fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield crouching (3).fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield crouching.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield crouching.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield death (2).fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield death (2).fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield death.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield death.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield idle (4).fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield idle (4).fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield idle.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield idle.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield impact (3).fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield impact (3).fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield impact.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield impact.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield jump (2).fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield jump (2).fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield jump.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield jump.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield slash (5).fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield slash (5).fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield slash.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield slash.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield strafe (2).fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield strafe (2).fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield strafe.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield strafe.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield walk (2).fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield walk (2).fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield walk.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/sword and shield walk.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/Script/PlayerMovementSettings.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/Script/PlayerMovementSettings.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerMovement/PlayerInput.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerMovement/PlayerInput.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerMovement/PlayerInput.inputactions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerMovement/PlayerInput.inputactions.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerMovement/PlayerMovement.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerMovement/PlayerMovement.cs.meta" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,51 +89,103 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMovement/PlayerInput.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/ScriptableObjects/Script/PlayerMovementSettings.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4420">
-              <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+            <state relative-caret-position="289">
+              <caret line="17" column="59" selection-start-line="17" selection-start-column="59" selection-end-line="17" selection-end-column="59" />
               <folding>
-                <marker date="1661021274849" expanded="true" signature="0:488" ph="/* ------------------------------------------------------------------------------ ... */" />
-                <marker date="1661021274849" expanded="false" signature="496:635" ph="..." />
-                <marker date="1661021274849" expanded="true" signature="709:11654" ph="{...}" />
-                <marker date="1661021274849" expanded="true" signature="780:2536" ph="{...}" />
-                <marker date="1661021274849" expanded="true" signature="11608:11652" ph="{...}" />
+                <marker date="1661095595179" expanded="true" signature="177:812" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMovement/PlayerMovement.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMovement/Movement/PlayerMovement.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="88" column="30" lean-forward="true" selection-start-line="88" selection-start-column="30" selection-end-line="88" selection-end-column="30" />
+            <state relative-caret-position="-649">
+              <caret line="64" column="34" lean-forward="true" selection-start-line="64" selection-start-column="34" selection-end-line="64" selection-end-column="34" />
               <folding>
-                <marker date="1661089065538" expanded="false" signature="6:122" ph="..." />
-                <marker date="1661089065538" expanded="true" signature="167:3396" ph="{...}" />
-                <marker date="1661089065538" expanded="true" signature="839:1538" ph="{...}" />
-                <marker date="1661089065538" expanded="true" signature="1565:1597" ph="{...}" />
-                <marker date="1661089065538" expanded="true" signature="1626:2209" ph="{...}" />
-                <marker date="1661089065538" expanded="true" signature="1673:2203" ph="{...}" />
-                <marker date="1661089065538" expanded="true" signature="2268:2734" ph="{...}" />
-                <marker date="1661089065538" expanded="true" signature="2457:2499" ph="{...}" />
-                <marker date="1661089065538" expanded="true" signature="2797:2888" ph="{...}" />
-                <marker date="1661089065538" expanded="true" signature="2927:3201" ph="{...}" />
-                <marker date="1661089065538" expanded="true" signature="3259:3298" ph="{...}" />
-                <marker date="1661089065538" expanded="true" signature="3355:3394" ph="{...}" />
+                <marker date="1661106182517" expanded="false" signature="6:122" ph="..." />
+                <marker date="1661106182517" expanded="true" signature="176:4499" ph="{...}" />
+                <marker date="1661106182517" expanded="true" signature="917:1792" ph="{...}" />
+                <marker date="1661106182517" expanded="true" signature="1819:1851" ph="{...}" />
+                <marker date="1661106182517" expanded="true" signature="1880:3043" ph="{...}" />
+                <marker date="1661106182517" expanded="true" signature="1927:2953" ph="{...}" />
+                <marker date="1661106182517" expanded="true" signature="2048:2111" ph="{...}" />
+                <marker date="1661106182517" expanded="true" signature="2128:2361" ph="{...}" />
+                <marker date="1661106182517" expanded="true" signature="2175:2251" ph="{...}" />
+                <marker date="1661106182517" expanded="true" signature="2272:2347" ph="{...}" />
+                <marker date="1661106182517" expanded="true" signature="2966:3037" ph="{...}" />
+                <marker date="1661106182517" expanded="true" signature="3102:3568" ph="{...}" />
+                <marker date="1661106182517" expanded="true" signature="3291:3333" ph="{...}" />
+                <marker date="1661106182517" expanded="true" signature="3631:3722" ph="{...}" />
+                <marker date="1661106182517" expanded="true" signature="3761:4035" ph="{...}" />
+                <marker date="1661106182517" expanded="true" signature="4093:4154" ph="{...}" />
+                <marker date="1661106182517" expanded="true" signature="4211:4300" ph="{...}" />
+                <marker date="1661106182517" expanded="true" signature="4344:4497" ph="{...}" />
+                <marker date="1661106182517" expanded="true" signature="4419:4491" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/ScriptableObjects/Script/PlayerMovementSettings.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMovement/HP Actions Player/SwordController.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+              <caret line="10" column="50" lean-forward="true" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
               <folding>
-                <marker date="1661089065447" expanded="true" signature="177:818" ph="{...}" />
+                <marker date="1661106061484" expanded="false" signature="6:78" ph="..." />
+                <marker date="1661106061484" expanded="true" signature="124:314" ph="{...}" />
+                <marker date="1661106061484" expanded="true" signature="174:312" ph="{...}" />
+                <marker date="1661106061484" expanded="true" signature="235:306" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Interfaces/IDamage.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+              <folding>
+                <marker date="1661106182581" expanded="false" signature="6:78" ph="..." />
+                <marker date="1661106182581" expanded="true" signature="104:145" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/NPC/NPCController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+              <folding>
+                <marker date="1661106182443" expanded="false" signature="6:78" ph="..." />
+                <marker date="1661106182443" expanded="true" signature="131:408" ph="{...}" />
+                <marker date="1661106182443" expanded="true" signature="203:224" ph="{...}" />
+                <marker date="1661106182443" expanded="true" signature="282:303" ph="{...}" />
+                <marker date="1661106182443" expanded="true" signature="347:406" ph="{...}" />
+                <marker date="1661106182443" expanded="true" signature="362:400" ph="/* Передаем в HP контроллер ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMovement/Animation/AnimatorSwitcher.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+              <folding>
+                <marker date="1661103120254" expanded="false" signature="6:78" ph="..." />
+                <marker date="1661103120254" expanded="true" signature="125:457" ph="{...}" />
+                <marker date="1661103120254" expanded="true" signature="184:252" ph="{...}" />
+                <marker date="1661103120254" expanded="true" signature="297:344" ph="{...}" />
+                <marker date="1661103120254" expanded="true" signature="401:455" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -63,25 +193,36 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/NPC/NPCController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interfaces/IDamage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMovement/Animation/AnimatorSwitcher.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMovement/HP Actions Player/SwordController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ScriptableObjects/Script/PlayerMovementSettings.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMovement/PlayerInput.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMovement/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMovement/Movement/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMovement/PlayerMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/ScriptableObjects/Script/PlayerMovementSettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMovement/Animation/AnimatorSwitcher.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/IDamage.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMovement/Movement/PlayerMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMovement/HP Actions Player/SwordController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NPC/NPCController.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="729" />
-    <option name="y" value="23" />
-    <option name="width" value="1121" />
-    <option name="height" value="987" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="UnityExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -121,7 +262,40 @@
               <item name="Project" type="e068e287:UnityExplorerRootNode" />
               <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
               <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="Interfaces" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="NPC" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
               <item name="PlayerMovement" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="PlayerMovement" type="1045f7f1:UnityExplorerNode" />
+              <item name="Animation" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="PlayerMovement" type="1045f7f1:UnityExplorerNode" />
+              <item name="HP Actions Player" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="PlayerMovement" type="1045f7f1:UnityExplorerNode" />
+              <item name="Movement" type="1045f7f1:UnityExplorerNode" />
             </path>
           </expand>
           <select />
@@ -180,12 +354,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660924292187</updated>
-      <workItem from="1660924296258" duration="20492000" />
+      <workItem from="1660924296258" duration="28508000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20492000" />
+    <option name="totallyTimeSpent" value="28508000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -197,13 +371,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="729" y="23" width="1121" height="987" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.05843544" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17910448" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="NuGet" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -247,45 +421,105 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMovement/PlayerInput.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4420">
+        <state relative-caret-position="-4152">
           <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMovement/PlayerMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="93" column="26" lean-forward="true" selection-start-line="93" selection-start-column="26" selection-end-line="93" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMovement/Animation/AnimatorSwitcher.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
           <folding>
-            <marker date="1661021274849" expanded="true" signature="0:488" ph="/* ------------------------------------------------------------------------------ ... */" />
-            <marker date="1661021274849" expanded="false" signature="496:635" ph="..." />
-            <marker date="1661021274849" expanded="true" signature="709:11654" ph="{...}" />
-            <marker date="1661021274849" expanded="true" signature="780:2536" ph="{...}" />
-            <marker date="1661021274849" expanded="true" signature="11608:11652" ph="{...}" />
+            <marker date="1661103120254" expanded="false" signature="6:78" ph="..." />
+            <marker date="1661103120254" expanded="true" signature="125:457" ph="{...}" />
+            <marker date="1661103120254" expanded="true" signature="184:252" ph="{...}" />
+            <marker date="1661103120254" expanded="true" signature="297:344" ph="{...}" />
+            <marker date="1661103120254" expanded="true" signature="401:455" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/ScriptableObjects/Script/PlayerMovementSettings.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+        <state relative-caret-position="289">
+          <caret line="17" column="59" selection-start-line="17" selection-start-column="59" selection-end-line="17" selection-end-column="59" />
           <folding>
-            <marker date="1661089065447" expanded="true" signature="177:818" ph="{...}" />
+            <marker date="1661095595179" expanded="true" signature="177:812" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMovement/PlayerMovement.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/NPC/NPCController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="88" column="30" lean-forward="true" selection-start-line="88" selection-start-column="30" selection-end-line="88" selection-end-column="30" />
+        <state relative-caret-position="323">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
           <folding>
-            <marker date="1661089065538" expanded="false" signature="6:122" ph="..." />
-            <marker date="1661089065538" expanded="true" signature="167:3396" ph="{...}" />
-            <marker date="1661089065538" expanded="true" signature="839:1538" ph="{...}" />
-            <marker date="1661089065538" expanded="true" signature="1565:1597" ph="{...}" />
-            <marker date="1661089065538" expanded="true" signature="1626:2209" ph="{...}" />
-            <marker date="1661089065538" expanded="true" signature="1673:2203" ph="{...}" />
-            <marker date="1661089065538" expanded="true" signature="2268:2734" ph="{...}" />
-            <marker date="1661089065538" expanded="true" signature="2457:2499" ph="{...}" />
-            <marker date="1661089065538" expanded="true" signature="2797:2888" ph="{...}" />
-            <marker date="1661089065538" expanded="true" signature="2927:3201" ph="{...}" />
-            <marker date="1661089065538" expanded="true" signature="3259:3298" ph="{...}" />
-            <marker date="1661089065538" expanded="true" signature="3355:3394" ph="{...}" />
+            <marker date="1661106182443" expanded="false" signature="6:78" ph="..." />
+            <marker date="1661106182443" expanded="true" signature="131:408" ph="{...}" />
+            <marker date="1661106182443" expanded="true" signature="203:224" ph="{...}" />
+            <marker date="1661106182443" expanded="true" signature="282:303" ph="{...}" />
+            <marker date="1661106182443" expanded="true" signature="347:406" ph="{...}" />
+            <marker date="1661106182443" expanded="true" signature="362:400" ph="/* Передаем в HP контроллер ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Interfaces/IDamage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+          <folding>
+            <marker date="1661106182581" expanded="false" signature="6:78" ph="..." />
+            <marker date="1661106182581" expanded="true" signature="104:145" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMovement/HP Actions Player/SwordController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="50" lean-forward="true" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+          <folding>
+            <marker date="1661106061484" expanded="false" signature="6:78" ph="..." />
+            <marker date="1661106061484" expanded="true" signature="124:314" ph="{...}" />
+            <marker date="1661106061484" expanded="true" signature="174:312" ph="{...}" />
+            <marker date="1661106061484" expanded="true" signature="235:306" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMovement/Movement/PlayerMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-649">
+          <caret line="64" column="34" lean-forward="true" selection-start-line="64" selection-start-column="34" selection-end-line="64" selection-end-column="34" />
+          <folding>
+            <marker date="1661106182517" expanded="false" signature="6:122" ph="..." />
+            <marker date="1661106182517" expanded="true" signature="176:4499" ph="{...}" />
+            <marker date="1661106182517" expanded="true" signature="917:1792" ph="{...}" />
+            <marker date="1661106182517" expanded="true" signature="1819:1851" ph="{...}" />
+            <marker date="1661106182517" expanded="true" signature="1880:3043" ph="{...}" />
+            <marker date="1661106182517" expanded="true" signature="1927:2953" ph="{...}" />
+            <marker date="1661106182517" expanded="true" signature="2048:2111" ph="{...}" />
+            <marker date="1661106182517" expanded="true" signature="2128:2361" ph="{...}" />
+            <marker date="1661106182517" expanded="true" signature="2175:2251" ph="{...}" />
+            <marker date="1661106182517" expanded="true" signature="2272:2347" ph="{...}" />
+            <marker date="1661106182517" expanded="true" signature="2966:3037" ph="{...}" />
+            <marker date="1661106182517" expanded="true" signature="3102:3568" ph="{...}" />
+            <marker date="1661106182517" expanded="true" signature="3291:3333" ph="{...}" />
+            <marker date="1661106182517" expanded="true" signature="3631:3722" ph="{...}" />
+            <marker date="1661106182517" expanded="true" signature="3761:4035" ph="{...}" />
+            <marker date="1661106182517" expanded="true" signature="4093:4154" ph="{...}" />
+            <marker date="1661106182517" expanded="true" signature="4211:4300" ph="{...}" />
+            <marker date="1661106182517" expanded="true" signature="4344:4497" ph="{...}" />
+            <marker date="1661106182517" expanded="true" signature="4419:4491" ph="{...}" />
           </folding>
         </state>
       </provider>
