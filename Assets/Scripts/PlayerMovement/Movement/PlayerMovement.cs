@@ -11,6 +11,7 @@ public class PlayerMovement : MonoBehaviour, IDamage
     [Space]
     [Header("Camera Settings")]
     [SerializeField] private Transform _cameraJoint;
+    [SerializeField] private SwordController _sword;
     
     private float rotatipnVelocity;
    
@@ -19,8 +20,6 @@ public class PlayerMovement : MonoBehaviour, IDamage
     private Transform _character;
     private Vector2 _move;
     private Vector2 _look;
-    private bool _canMove;
-    private Collider _collider;
     
     private float _fallTimeoutDelta;
     private float _jumpTimeoutDelta;
@@ -28,25 +27,25 @@ public class PlayerMovement : MonoBehaviour, IDamage
     private float _terminalVelocity = 53.0f;
     private AnimatorSwitcher _animSwitcher;
 
+    private int HP;
+
     private bool block;
 
     private void Awake()
     {
         _animSwitcher = GetComponentInChildren<AnimatorSwitcher>();
         _inputSettings = new PlayerInput();
+        HP = _dataMovement.GetHP;
+        block = false;
         _inputSettings.Player.Enable();
-        _canMove = true;
-        _collider = GetComponentInChildren<CapsuleCollider>();
-        _collider.enabled = !_canMove;
         _character = transform.Find("Character");
         _characterController = GetComponentInChildren<CharacterController>();
         _inputSettings.Player.Move.canceled += ctx => _move = ctx.ReadValue<Vector2>();
         _inputSettings.Player.Move.performed += ctx => _move = ctx.ReadValue<Vector2>();
         _inputSettings.Player.Look.performed += Looking;
         _inputSettings.Player.Attack.started += Attack;
-        _inputSettings.Player.Block.started += Block;
+        _inputSettings.Player.Block.performed += Block;
         _inputSettings.Player.Attack.canceled += Attack;
-        _inputSettings.Player.Block.canceled += Block;
     }
 
     private void Update()
@@ -120,11 +119,12 @@ public class PlayerMovement : MonoBehaviour, IDamage
     private void Attack(InputAction.CallbackContext ctx)
     {
         _animSwitcher.SwitchAnimation("Attack");
+        _sword.Attack = ctx.started;
     }
 
     private void Block(InputAction.CallbackContext ctx)
     {
-        block = ctx.started;
+        block = !block;
         _animSwitcher.SwitchAnimation("Block");
     }
 
@@ -133,7 +133,24 @@ public class PlayerMovement : MonoBehaviour, IDamage
         _animSwitcher.SwitchAnimation("Damage");
         if (!block)
         {
-            /*Передаем в HP Controller Наш Damage*/
+            HP -= countDamage;
+            if (HP <= 0)
+            {
+                LevelBuilder.Instance.RespawnObject(gameObject);
+            }
         }
+    }
+
+    public void Die()
+    {
+        _inputSettings.Player.Disable();
+        _animSwitcher.SwitchAnimation("Die");
+    }
+
+    public void Respawned()
+    {
+        HP = _dataMovement.GetHP;
+        _inputSettings.Player.Enable();
+        _animSwitcher.SwitchAnimation("Respawn");
     }
 }
